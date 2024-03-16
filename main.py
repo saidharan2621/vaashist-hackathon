@@ -7,7 +7,7 @@ import numpy as np
 # Load the pre-trained model for pneumonia detection
 model = tf.keras.models.load_model('pneumonia.h5')
 
-st.title("CSP - Community Service Project")
+st.title("Covid19 pnuemonia detection")
 st.markdown("<h1 style='text-align: center; color: red;'>COVID-19 Pneumonia Diagnosis</h1>", unsafe_allow_html=True)
 st.write("Pneumonia is a respiratory infection that inflames the air sacs in one or both lungs.")
 
