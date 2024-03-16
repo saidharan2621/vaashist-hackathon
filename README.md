@@ -38,6 +38,12 @@ Using Convolutional Neural Networks (CNNs) for COVID-19 pneumonia detection has 
 ![WhatsApp Image 2023-10-18 at 20 43 07_f65d2376](https://github.com/saidharan2621/vaashist-hackathon/assets/91666736/4b6c0f98-60ac-4555-9c52-4aaa6130ecc0)
 ![WhatsApp Image 2023-10-18 at 20 43 07_3152a777](https://github.com/saidharan2621/vaashist-hackathon/assets/91666736/3bf3e660-70bb-4f28-8c57-6565210e6610)
 
+## DEMO VIDEO
+
+
+
+https://github.com/saidharan2621/vaashist-hackathon/assets/91666736/76820e68-4e67-41cb-9aed-d78ee13e4795
+
 
 
 
